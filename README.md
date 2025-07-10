@@ -2,10 +2,10 @@
 
 > [ReDiffDet: Rotation-equivariant Diffusion Model for Oriented Object Detection](https://openaccess.thecvf.com/content/CVPR2025/html/Zhao_ReDiffDet_Rotation-equivariant_Diffusion_Model_for_Oriented_Object_Detection_CVPR_2025_paper.html)
 
-The baseline of ReDiffDet is avaliable at [ai4rs](https://github.com/wokaikaixinxin/ai4rs/blob/main/projects/GSDet_baseline/README_ReDiffDet_baseline.md)  
-The baseline of ReDiffDet is avaliable at [ai4rs](https://github.com/wokaikaixinxin/ai4rs/blob/main/projects/GSDet_baseline/README_ReDiffDet_baseline.md)  
-The baseline of ReDiffDet is avaliable at [ai4rs](https://github.com/wokaikaixinxin/ai4rs/blob/main/projects/GSDet_baseline/README_ReDiffDet_baseline.md)  
-The baseline of ReDiffDet is avaliable at [ai4rs](https://github.com/wokaikaixinxin/ai4rs/blob/main/projects/GSDet_baseline/README_ReDiffDet_baseline.md)  
+The baseline of ReDiffDet is avaliable at [ai4rs](https://github.com/wokaikaixinxin/ai4rs)  
+The baseline of ReDiffDet is avaliable at [ai4rs](https://github.com/wokaikaixinxin/ai4rs)   
+The baseline of ReDiffDet is avaliable at [ai4rs](https://github.com/wokaikaixinxin/ai4rs)  
+The baseline of ReDiffDet is avaliable at [ai4rs](https://github.com/wokaikaixinxin/ai4rs)   
 
 
 ## Abstract
